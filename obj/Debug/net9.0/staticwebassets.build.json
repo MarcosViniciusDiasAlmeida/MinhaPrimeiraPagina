@@ -1,0 +1,805 @@
+{
+  "Version": 1,
+  "Hash": "pBfjvgD+KfzLJSe+gpWVX+wgRgzslCJKBZNlklKqpcM=",
+  "Source": "MinhaPrimeiraPagina",
+  "BasePath": "_content/MinhaPrimeiraPagina",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MinhaPrimeiraPagina\\wwwroot",
+      "Source": "MinhaPrimeiraPagina",
+      "ContentRoot": "C:\\Users\\marco\\MinhaPrimeiraPagina\\wwwroot\\",
+      "BasePath": "_content/MinhaPrimeiraPagina",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\marco\\MinhaPrimeiraPagina\\obj\\Debug\\net9.0\\compressed\\jgq915tr6w-inveerr42j.gz",
+      "SourceId": "MinhaPrimeiraPagina",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\marco\\MinhaPrimeiraPagina\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MinhaPrimeiraPagina",
+      "RelativePath": "index#[.{fingerprint=inveerr42j}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\marco\\MinhaPrimeiraPagina\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "a7neeg3ndx",
+      "Integrity": "9mpRZUTLNEMBo/smXY3j1FEHI48q4XU8gNcgP2SBuXU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\marco\\MinhaPrimeiraPagina\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\marco\\MinhaPrimeiraPagina\\obj\\Debug\\net9.0\\compressed\\ymaviooorn-47rlfbnhjm.gz",
+      "SourceId": "MinhaPrimeiraPagina",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\marco\\MinhaPrimeiraPagina\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MinhaPrimeiraPagina",
+      "RelativePath": "sobre#[.{fingerprint=47rlfbnhjm}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\marco\\MinhaPrimeiraPagina\\wwwroot\\sobre.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "0oosv4717m",
+      "Integrity": "4CpAmD2F+fkpWMmHhiFpkhVmzECiQuuNsilQt+85yPY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\marco\\MinhaPrimeiraPagina\\wwwroot\\sobre.html"
+    },
+    {
+      "Identity": "C:\\Users\\marco\\MinhaPrimeiraPagina\\wwwroot\\imagens\\gugu.jpg",
+      "SourceId": "MinhaPrimeiraPagina",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\marco\\MinhaPrimeiraPagina\\wwwroot\\",
+      "BasePath": "_content/MinhaPrimeiraPagina",
+      "RelativePath": "imagens/gugu#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ut6x9lm9k8",
+      "Integrity": "LqLC66okzE2q7ayL2630feUXpibtgZ8YMDgKIKisssE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\gugu.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\marco\\MinhaPrimeiraPagina\\wwwroot\\index.html",
+      "SourceId": "MinhaPrimeiraPagina",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\marco\\MinhaPrimeiraPagina\\wwwroot\\",
+      "BasePath": "_content/MinhaPrimeiraPagina",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "inveerr42j",
+      "Integrity": "vmEOmgERpZ1jq5qh5JWrBCLE6beOBjVR//t8TseDNPE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\marco\\MinhaPrimeiraPagina\\wwwroot\\sobre.html",
+      "SourceId": "MinhaPrimeiraPagina",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\marco\\MinhaPrimeiraPagina\\wwwroot\\",
+      "BasePath": "_content/MinhaPrimeiraPagina",
+      "RelativePath": "sobre#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "47rlfbnhjm",
+      "Integrity": "8KfcdL68ALJJ/OSF7OT+aZUGsbCzTPmARiyYqkPfqU8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sobre.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "imagens/gugu.jpg",
+      "AssetFile": "C:\\Users\\marco\\MinhaPrimeiraPagina\\wwwroot\\imagens\\gugu.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "113479"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LqLC66okzE2q7ayL2630feUXpibtgZ8YMDgKIKisssE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 00:24:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LqLC66okzE2q7ayL2630feUXpibtgZ8YMDgKIKisssE="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/gugu.ut6x9lm9k8.jpg",
+      "AssetFile": "C:\\Users\\marco\\MinhaPrimeiraPagina\\wwwroot\\imagens\\gugu.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "113479"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LqLC66okzE2q7ayL2630feUXpibtgZ8YMDgKIKisssE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 00:24:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ut6x9lm9k8"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/gugu.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LqLC66okzE2q7ayL2630feUXpibtgZ8YMDgKIKisssE="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\marco\\MinhaPrimeiraPagina\\obj\\Debug\\net9.0\\compressed\\jgq915tr6w-inveerr42j.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003424657534"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "291"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9mpRZUTLNEMBo/smXY3j1FEHI48q4XU8gNcgP2SBuXU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 22:42:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vmEOmgERpZ1jq5qh5JWrBCLE6beOBjVR//t8TseDNPE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vmEOmgERpZ1jq5qh5JWrBCLE6beOBjVR//t8TseDNPE="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\marco\\MinhaPrimeiraPagina\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vmEOmgERpZ1jq5qh5JWrBCLE6beOBjVR//t8TseDNPE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 22:42:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vmEOmgERpZ1jq5qh5JWrBCLE6beOBjVR//t8TseDNPE="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\marco\\MinhaPrimeiraPagina\\obj\\Debug\\net9.0\\compressed\\jgq915tr6w-inveerr42j.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "291"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9mpRZUTLNEMBo/smXY3j1FEHI48q4XU8gNcgP2SBuXU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 22:42:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9mpRZUTLNEMBo/smXY3j1FEHI48q4XU8gNcgP2SBuXU="
+        }
+      ]
+    },
+    {
+      "Route": "index.inveerr42j.html",
+      "AssetFile": "C:\\Users\\marco\\MinhaPrimeiraPagina\\obj\\Debug\\net9.0\\compressed\\jgq915tr6w-inveerr42j.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003424657534"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "291"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9mpRZUTLNEMBo/smXY3j1FEHI48q4XU8gNcgP2SBuXU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 22:42:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vmEOmgERpZ1jq5qh5JWrBCLE6beOBjVR//t8TseDNPE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "inveerr42j"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vmEOmgERpZ1jq5qh5JWrBCLE6beOBjVR//t8TseDNPE="
+        }
+      ]
+    },
+    {
+      "Route": "index.inveerr42j.html",
+      "AssetFile": "C:\\Users\\marco\\MinhaPrimeiraPagina\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vmEOmgERpZ1jq5qh5JWrBCLE6beOBjVR//t8TseDNPE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 22:42:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "inveerr42j"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vmEOmgERpZ1jq5qh5JWrBCLE6beOBjVR//t8TseDNPE="
+        }
+      ]
+    },
+    {
+      "Route": "index.inveerr42j.html.gz",
+      "AssetFile": "C:\\Users\\marco\\MinhaPrimeiraPagina\\obj\\Debug\\net9.0\\compressed\\jgq915tr6w-inveerr42j.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "291"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9mpRZUTLNEMBo/smXY3j1FEHI48q4XU8gNcgP2SBuXU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 22:42:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "inveerr42j"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9mpRZUTLNEMBo/smXY3j1FEHI48q4XU8gNcgP2SBuXU="
+        }
+      ]
+    },
+    {
+      "Route": "sobre.47rlfbnhjm.html",
+      "AssetFile": "C:\\Users\\marco\\MinhaPrimeiraPagina\\obj\\Debug\\net9.0\\compressed\\ymaviooorn-47rlfbnhjm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001335113485"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "748"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4CpAmD2F+fkpWMmHhiFpkhVmzECiQuuNsilQt+85yPY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 22:44:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8KfcdL68ALJJ/OSF7OT+aZUGsbCzTPmARiyYqkPfqU8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "47rlfbnhjm"
+        },
+        {
+          "Name": "label",
+          "Value": "sobre.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8KfcdL68ALJJ/OSF7OT+aZUGsbCzTPmARiyYqkPfqU8="
+        }
+      ]
+    },
+    {
+      "Route": "sobre.47rlfbnhjm.html",
+      "AssetFile": "C:\\Users\\marco\\MinhaPrimeiraPagina\\wwwroot\\sobre.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1602"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8KfcdL68ALJJ/OSF7OT+aZUGsbCzTPmARiyYqkPfqU8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 22:44:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "47rlfbnhjm"
+        },
+        {
+          "Name": "label",
+          "Value": "sobre.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8KfcdL68ALJJ/OSF7OT+aZUGsbCzTPmARiyYqkPfqU8="
+        }
+      ]
+    },
+    {
+      "Route": "sobre.47rlfbnhjm.html.gz",
+      "AssetFile": "C:\\Users\\marco\\MinhaPrimeiraPagina\\obj\\Debug\\net9.0\\compressed\\ymaviooorn-47rlfbnhjm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4CpAmD2F+fkpWMmHhiFpkhVmzECiQuuNsilQt+85yPY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 22:44:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "47rlfbnhjm"
+        },
+        {
+          "Name": "label",
+          "Value": "sobre.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4CpAmD2F+fkpWMmHhiFpkhVmzECiQuuNsilQt+85yPY="
+        }
+      ]
+    },
+    {
+      "Route": "sobre.html",
+      "AssetFile": "C:\\Users\\marco\\MinhaPrimeiraPagina\\obj\\Debug\\net9.0\\compressed\\ymaviooorn-47rlfbnhjm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001335113485"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "748"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4CpAmD2F+fkpWMmHhiFpkhVmzECiQuuNsilQt+85yPY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 22:44:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8KfcdL68ALJJ/OSF7OT+aZUGsbCzTPmARiyYqkPfqU8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8KfcdL68ALJJ/OSF7OT+aZUGsbCzTPmARiyYqkPfqU8="
+        }
+      ]
+    },
+    {
+      "Route": "sobre.html",
+      "AssetFile": "C:\\Users\\marco\\MinhaPrimeiraPagina\\wwwroot\\sobre.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1602"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8KfcdL68ALJJ/OSF7OT+aZUGsbCzTPmARiyYqkPfqU8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 22:44:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8KfcdL68ALJJ/OSF7OT+aZUGsbCzTPmARiyYqkPfqU8="
+        }
+      ]
+    },
+    {
+      "Route": "sobre.html.gz",
+      "AssetFile": "C:\\Users\\marco\\MinhaPrimeiraPagina\\obj\\Debug\\net9.0\\compressed\\ymaviooorn-47rlfbnhjm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4CpAmD2F+fkpWMmHhiFpkhVmzECiQuuNsilQt+85yPY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 22:44:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4CpAmD2F+fkpWMmHhiFpkhVmzECiQuuNsilQt+85yPY="
+        }
+      ]
+    }
+  ]
+}
